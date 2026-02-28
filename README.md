@@ -33,4 +33,10 @@ A Management System Implementation to perform standard operations for teacher an
 - teacher exits
 ## **alternate main flow**
 - if student sign up with invalid creditions the access is denied
-- if teacher sign up with invalid creditions the access is denied
+- if teacher sign up with invalid creditions the access is denied## Technologies Used
+
+- **Language:** Java
+- **Database:** PostgreSQL
+- **Database Connectivity:** JDBC (Java Database Connectivity)
+- **Architecture:** Console-based application with menu-driven interface
+
