@@ -17,8 +17,8 @@ A Management System Implementation to perform standard operations for teacher an
 
 ## postconditions
 
-- student is rediredted to the menu after sign up
-- teacher is rediredted to the menu after sign up
+- student is redirected to the menu after sign up
+- teacher is redirected to the menu after sign up
 
 ## **main flow**
 
